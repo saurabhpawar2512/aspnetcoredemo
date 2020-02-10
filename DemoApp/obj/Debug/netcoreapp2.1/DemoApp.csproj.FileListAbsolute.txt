@@ -1,0 +1,15 @@
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.deps.json
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.runtimeconfig.json
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.runtimeconfig.dev.json
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.dll
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\DemoApp.pdb
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorAssemblyInfo.cache
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorAssemblyInfo.cs
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.AssemblyInfoInputs.cache
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.AssemblyInfo.cs
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.RazorTargetAssemblyInfo.cache
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.dll
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.pdb
+D:\ASP.NET_CORE\DemoApp\DemoApp\obj\Debug\netcoreapp2.1\DemoApp.csprojAssemblyReference.cache
+D:\ASP.NET_CORE\DemoApp\DemoApp\bin\Debug\netcoreapp2.1\nlog.config
